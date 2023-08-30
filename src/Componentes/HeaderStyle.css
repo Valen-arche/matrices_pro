@@ -1,0 +1,20 @@
+.HeaderStyle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px; /* Ajusta el padding según tus necesidades */
+    background-color: #ac7bd4;
+    color: #ffffff;
+  }
+  
+  .HeaderStyle a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .HeaderStyle img {
+    max-width: 32vw;
+    max-height: 33vh;
+    position: center; /* Ajusta el tamaño del logo */
+   
+  }
